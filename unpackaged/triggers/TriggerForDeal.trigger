@@ -1,4 +1,6 @@
 trigger TriggerForDeal on Deal__c (before insert, before update) {
+    //DealHandler handler = new DealHandler();
+    
 	if (Trigger.isBefore){
         if (Trigger.isInsert){
         	
@@ -6,6 +8,7 @@ trigger TriggerForDeal on Deal__c (before insert, before update) {
     		Set<Date> endDates = new Set<Date>();
     		
             //we collect start/end dates of trigger.new
+            
             for(Deal__c deal:Trigger.new){
                 if(deal.Status__c == 'Won' || deal.Status__c == 'Lost'){
                     startDates.add(deal.StartDate__c);
@@ -36,16 +39,18 @@ trigger TriggerForDeal on Deal__c (before insert, before update) {
             }   		
         }
         if (Trigger.isUpdate){
+            //handler.processAfterUpdate(Trigger.new, Trigger.oldMap);  
+            //in processAfterUpdate we should have method setEndDateForClosedDeals(Trigger.new, Trigger.oldMap, System.today());
+            // public void setEndDateForClosedDeals(List<Deal__c> newRecords, Map<Id, Deal__c> oldRecordsMap, Date dateToSet){ }
+            
             for(Deal__c newDeal:Trigger.new){
                 
                 Deal__c oldDeal = Trigger.oldMap.get(newDeal.Id);
+                //if status changed AND Status == Won or Lost
                 if(newDeal.Status__c != oldDeal.Status__c 
                    && (newDeal.Status__c == 'Won' || newDeal.Status__c == 'Lost')){
                    		newDeal.EndDate__c = System.today();
                 }
-                
-                
-                
             }
             
         }
