@@ -5,21 +5,20 @@ trigger TriggerForCar on Car__c (before delete) {
     //							b) carIds = Trigger.oldMap.keySet();   
      if (Trigger.isBefore){
         if (Trigger.isDelete){
-            List<Deal__c> relatedDeals = [SELECT Id, Status__c 
-                                          FROM Deal__c 
-                                          WHERE Status__c = 'Open'
-                                  		  AND Car__c IN :Trigger.oldMap.keySet()];
-            for(Deal__c deal: relatedDeals){
-                deal.Status__c = 'Lost';
-            }
-            
-            update relatedDeals;
+
+            CarHandler handler = new CarHandler();
+            handler.processBeforeDelete(Trigger.oldMap);
+
         }
+//            List<Deal__c> relatedDeals = [SELECT Id, Status__c
+//                                          FROM Deal__c
+//                                          WHERE Status__c = 'Open'
+//                                  		  AND Car__c IN :Trigger.oldMap.keySet()];
+//            for(Deal__c deal: relatedDeals){
+//                deal.Status__c = 'Lost';
+//            }
+//
+//            update relatedDeals;
+//        }
     }
-    if (Trigger.isAfter){
-        if (Trigger.isInsert){
-            
-        }
-    }
-    
 }

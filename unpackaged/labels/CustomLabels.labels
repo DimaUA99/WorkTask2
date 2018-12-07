@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"/>
-
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ErrorForCarDuplication</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error</shortDescription>
+        <value>Error you can&apos;t create car because at .......</value>
+    </labels>
+    <labels>
+        <fullName>Massage</fullName>
+        <categories>error</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Massage</shortDescription>
+        <value>error</value>
+    </labels>
+</CustomLabels>
