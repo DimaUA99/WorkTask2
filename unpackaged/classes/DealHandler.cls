@@ -5,11 +5,12 @@ public class DealHandler {
 
 
 	public void ProcessBeforeInsert(List<Deal__c> triggerNew) {
-		checkedForDuplicate(triggerNew);
+		checkedForDuplicate(triggerNew, false);
 	}
 
 	public void processBeforeUpdate(List<Deal__c> triggerList, Map<Id, Deal__c> triggerOld) {
 		setEndDateForClosedDeals(triggerList, triggerOld, System.today());
+		checkedForDuplicate(triggerList, true);
 	}
 
 
@@ -29,7 +30,7 @@ public class DealHandler {
 	}
 
 	//watch what would did not have duplicate
-	private void checkedForDuplicate(List<Deal__c> triggerNew) {
+	private void checkedForDuplicate(List<Deal__c> triggerNew, Boolean isUpdate) {
 
 		//put current StartDate and EndDate with deal
 		Set<Date> startDates = new Set<Date>();
@@ -52,7 +53,9 @@ public class DealHandler {
 				for (Deal__c newDeal: triggerNew) {
 					for (Deal__c existingDeal: existingDeals) {
 						if (newDeal.StartDate__c == existingDeal.StartDate__c &&
-										newDeal.Car__c == existingDeal.Car__c)
+								newDeal.EndDate__c == existingDeal.EndDate__c &&
+										newDeal.Car__c == existingDeal.Car__c &&
+										(isUpdate == true )|| false)
 						{
 
 							newDeal.addError(Label.ErrorForCarDuplication);

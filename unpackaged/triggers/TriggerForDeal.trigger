@@ -8,6 +8,7 @@ trigger TriggerForDeal on Deal__c (before insert, before update) {
 		}
 		if (Trigger.isUpdate) {
 			handler.processBeforeUpdate(Trigger.new, Trigger.oldMap);
+
 		}
 	}
 
