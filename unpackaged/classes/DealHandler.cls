@@ -13,7 +13,6 @@ public class DealHandler {
 		checkedForDuplicate(triggerList, true);
 	}
 
-
 	private void setEndDateForClosedDeals(List<Deal__c> newRecords,
 										  Map<Id, Deal__c>oldRecords,
 										  Date dateToSet) {
@@ -45,21 +44,34 @@ public class DealHandler {
 			if (!startDates.isEmpty() && endDates.size() > 0) {
 				//put in list dates of deal and
 				List<Deal__c> existingDeals = [SELECT Id, StartDate__c, EndDate__c, Status__c, Car__c
-				FROM Deal__c
-				WHERE StartDate__c IN :startDates
+						FROM Deal__c
+						WHERE StartDate__c IN :startDates
 				AND EndDate__c IN :endDates
 				AND Car__c IN :carId];
 
 				for (Deal__c newDeal: triggerNew) {
 					for (Deal__c existingDeal: existingDeals) {
-						if (newDeal.StartDate__c == existingDeal.StartDate__c &&
-								newDeal.EndDate__c == existingDeal.EndDate__c &&
-										newDeal.Car__c == existingDeal.Car__c &&
-										(isUpdate == true )|| false)
-						{
+						if (isUpdate) {
+							if (newDeal.StartDate__c == existingDeal.StartDate__c &&
+											newDeal.EndDate__c == existingDeal.EndDate__c &&
+											newDeal.Car__c == existingDeal.Car__c &&
+											newDeal.Id == existingDeal.Id)
+							{
 
-							newDeal.addError(Label.ErrorForCarDuplication);
-							continue;
+								//use custom label
+								newDeal.addError(Label.ErrorForCarDuplication);
+								continue;
+							}
+						} else {
+							if (newDeal.StartDate__c == existingDeal.StartDate__c &&
+											newDeal.EndDate__c == existingDeal.EndDate__c &&
+											newDeal.Car__c == existingDeal.Car__c)
+
+							{
+								newDeal.addError(Label.ErrorForCarDuplication);
+								continue;
+							}
+
 						}
 					}
 				}
