@@ -26,57 +26,36 @@ public with sharing class DealHandler {
 
 	}
 
-	//watch what would did not have duplicate
+	//watch what would did not have duplication
 	private void checkedForDuplicate(List<Deal__c> newRecords, Boolean isUpdate) {
-
-		//put current StartDate and EndDate with deal
-		Set<Date> startDates = new Set<Date>();
-		Set<Date> endDates = new Set<Date>();
+		//put current car in set carId
 		Set<Id> carId = new Set<Id>();
-
-		//system.debug('existing deals = '+existingDeals);
 		for (Deal__c deal : newRecords) {
-			startDates.add(deal.StartDate__c);
-			endDates.add(deal.EndDate__c);
 			carId.add(deal.Car__c);
 		}
-
 		//check on IsEmpty
-		if (!startDates.isEmpty() && !endDates.isEmpty() && !carId.isEmpty()) {
-			List<Deal__c> existingDeals = [SELECT Id, StartDate__c, EndDate__c, Status__c, Car__c
-					FROM Deal__c
-					WHERE Car__c IN :carId];
+		if (!carId.isEmpty()) {
 
-			//put in list dates of deal and
+			Set<String> fields = new Set<String>();
+
+			fields.add('Status__c');
+			fields.add('StartDate__c');
+			fields.add('EndDate__c');
+			fields.add('Car__c');
+			List<Deal__c> existingDeals = CarRentDAO.relatedDeals(fields, '', carId);
+
+			//check on duplication and period Dates
 			for (Deal__c newDeal: newRecords) {
 				for (Deal__c existingDeal: existingDeals) {
 					if (isUpdate) {
-						if (newDeal.StartDate__c == existingDeal.StartDate__c &&
-										newDeal.EndDate__c == existingDeal.EndDate__c &&
-										newDeal.Car__c == existingDeal.Car__c &&
-										newDeal.Id != existingDeal.Id)
-						{
-							//use custom label
+
+						if(CarRentServices.checkDealsOverlapDates(newDeal, existingDeal)
+								&& newDeal.Car__c == existingDeal.Car__c){
 							newDeal.addError(Label.ErrorForCarDuplication);
 							continue;
 						}
 					} else {
-						if (newDeal.Car__c == existingDeal.Car__c
-							&&(
-								(
-									(newDeal.StartDate__c <= existingDeal.EndDate__c)
-									&& (newDeal.EndDate__c > existingDeal.StartDate__c)
-								)
-								|| (
-									(newDeal.EndDate__c > existingDeal.StartDate__c)
-									&& (newDeal.StartDate__c <= existingDeal.StartDate__c)
-								)
-								|| (
-									(newDeal.StartDate__c < existingDeal.EndDate__c)
-									&& (newDeal.EndDate__c >= existingDeal.EndDate__c)
-								)
-							)
-						){
+						if(CarRentServices.checkDealsOverlapDates(newDeal, existingDeal)){
 							newDeal.addError(Label.ErrorForCarDuplication);
 							continue;
 						}
@@ -85,12 +64,12 @@ public with sharing class DealHandler {
 			}
 		}
 	}
-
 	private void checkForStatus(List<Deal__c> newRecords) {
-		Open__c CustoSettinng = Open__c.getInstance();
+		//use custom setting for status open
+		Open__c CustomSetting = Open__c.getInstance();
 		String status = DEFAULT_STATUS;
-		if (CustoSettinng.FieldOpen__c != NULL) {
-			status = CustoSettinng.FieldOpen__c;
+		if (CustomSetting.FieldOpen__c != NULL) {
+			status = CustomSetting.FieldOpen__c;
 		}
 		for (Deal__c deal : newRecords) {
 			if (deal.Status__c != status) {

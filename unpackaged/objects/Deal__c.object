@@ -80,6 +80,16 @@
         <type>Date</type>
     </fields>
     <fields>
+        <fullName>Sales_Manager_Email__c</fullName>
+        <description>email</description>
+        <externalId>false</externalId>
+        <label>Sales Manager Email</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Sales_Manager__c</fullName>
         <externalId>false</externalId>
         <label>Sales Manager</label>
@@ -158,7 +168,7 @@
         <fullName>ValidationForDate</fullName>
         <active>true</active>
         <description>Start date couldn&apos;t be more then End date</description>
-        <errorConditionFormula>StartDate__c  &gt;  EndDate__c</errorConditionFormula>
+        <errorConditionFormula>StartDate__c  &gt;=  EndDate__c</errorConditionFormula>
         <errorMessage>Start date couldn&apos;t be more then End date</errorMessage>
     </validationRules>
     <visibility>Public</visibility>

@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DealHandler</members>
-        <members>TestVerifyDate</members>
-        <members>CarDealServices</members>
-        <members>TestRestrictContactByName2</members>
-        <members>CarHandler</members>
-        <members>DataBasesMethods</members>
-        <members>CarRentDAO</members>
+        <members>*</members>
         <name>ApexClass</name>
     </types>
     <types>

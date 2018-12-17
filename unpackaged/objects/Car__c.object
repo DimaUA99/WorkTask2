@@ -62,7 +62,16 @@
     <fields>
         <fullName>Photo__c</fullName>
         <externalId>false</externalId>
-        <formula>IMAGE(&quot;https://img.gazeta.ru/files3/203/10635203/upload-IMG_Audi_g-trone_3562-pic905-895x505-44726.jpg&quot;,&quot;Image&quot;, 300, 300)</formula>
+        <formula>IF(
+ NOT(ISPICKVAL( Type__c , &apos;&apos;)) &amp;&amp;  IsValidForRent__c,
+ CASE(Type__c,
+ &apos;Sedan&apos;,IMAGE(&apos;https://www.smailauto.com/assets/stock/colormatched/white/640/cc_2018hoc020029_640/cc_2018hoc020029_640_si.jpg&apos;, &apos;Sedan&apos;),
+ &apos;Minivan&apos;, IMAGE(&apos;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzcAeCHcfiuH4IbDkZoeAtal8cVDOJ_pj1306gSqyt6qs6u62pA&apos;, &apos;Minivan&apos;),
+ &apos;Hatchback&apos;, IMAGE(&apos;https://www.mazdausa.com/siteassets/vehicles/2018/m3h/vlp/studio-360s/soul-red/my18_m3h_gt_41v_soul_red-06.jpg&apos;, &apos;Hatchback&apos;),
+  &apos;no car available&apos;
+ ),
+ &apos;no car available&apos;
+)</formula>
         <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
         <label>Photo</label>
         <required>false</required>
@@ -120,7 +129,7 @@
     <validationRules>
         <fullName>ValidForWord</fullName>
         <active>true</active>
-        <errorConditionFormula>CONTAINS(Name, $Setup.validWord__c.Word__c)</errorConditionFormula>
+        <errorConditionFormula>CONTAINS(LOWER(Name), LOWER($Setup.validWord__c.Word__c))</errorConditionFormula>
         <errorDisplayField>Name</errorDisplayField>
         <errorMessage>Do not allow text &quot;Fish&quot; to appear in Name field))</errorMessage>
     </validationRules>
