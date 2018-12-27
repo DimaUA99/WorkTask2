@@ -1,0 +1,14 @@
+<apex:page standardController="Deal__c"
+           extensions="ControllerForDeals">{!deals} <p/>
+    <apex:form>
+        <apex:pageblock>
+            <apex:pageblocktable value="{!deals}" var="deal">
+                <apex:column value="{!deal.StartDate__c}"/>
+                <apex:column value="{!deal.EndDate__c}"/>
+                <apex:column value="{!deal.Status__c}"/>
+                <apex:column value="{!deal.Car__c}"/>
+                <p/>
+            </apex:pageblocktable>
+        </apex:pageblock>
+    </apex:form>
+</apex:page>
