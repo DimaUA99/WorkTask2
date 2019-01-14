@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27390adc-2a08-4cf8-bb93-c3d68717fbdd" name="Default" comment="comit only test class with bug!_!">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/staticresources/jQueryMobile.resource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/staticresources/vfimagetest.resource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/staticresources/jQueryMobile.resource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/staticresources/vfimagetest.resource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/apex-timestamp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/apex-vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/dkachanovskyi.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sf-acc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sf.types.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/Application.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/Deal_sales.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/app.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__AppLauncher.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__Chatter.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__Community.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__Content.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__Insights.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__LightningBolt.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__LightningInstrumentation.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__LightningSales.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__LightningSalesConsole.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__LightningService.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__Marketing.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__Platform.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__Sales.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__Service.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__ServiceConsole.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/applications/standard__Sites.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/assignmentRules/Case.assignmentRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/assignmentRules/Lead.assignmentRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/HelloWorld/HelloWorld.cmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/HelloWorld/HellooWorld.cmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/HelloWorld/HellooWorld.cmp-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/HellooWorld/HellooWorld.cmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/HellooWorld/HellooWorld.cmp-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/harnessApp/harnessApp.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/harnessApp/harnessApp.app-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/meetGreet/meetGreet.cmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/meetGreet/meetGreet.cmp-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/meetGreet/meetGreetController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/aura/meetGreet/meetGreetHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/CarHandler.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/CarHandler.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/CarHandlerTest.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/CarHandlerTest.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/CarRentDAO.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/CarRentDAO.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/CarRentServices.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/CarRentServices.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/ControllerForDeals.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/ControllerForDealsTest.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/ControllerForDealsTest.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/ControllerRelatedDeals.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/ControllerRelatedDeals.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/DealHandler.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/DealHandler.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/DealHandlerTest.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/DealHandlerTest.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/TestNAme.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/carId.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/deal.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/handlerToTest.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/newDeals.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/classes/salesManagerFordzeals.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flowDefinitions/Closed_Won_Opportunities.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flowDefinitions/ForEmail.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flowDefinitions/HomrWork.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flowDefinitions/SetEmail.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flowDefinitions/send.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flows/Closed_Won_Opportunities.flow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flows/ForEmail.flow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flows/HomrWork.flow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flows/SetEmail.flow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/flows/send.flow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/groups/Chelleng.group" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/homePageLayouts/DE Default.homePageLayout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/labels/CustomLabels.labels" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Account-Account %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Account-Account %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Account-Account %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Account-Account Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Asset-Asset Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/AssetRelationship-Asset Relationship Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/BugCaseAssociation__c-BugCaseAssociation Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Campaign-Campaign Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/CampaignMember-Campaign Member Page Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Camping_Item__c-Camping Item Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Car__c-Car Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Case-Case %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Case-Case %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Case-Case %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Case-Case Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/CaseClose-Close Case Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/CommunityMemberLayout-Community Member Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Contact-Contact %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Contact-Contact %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Contact-Contact %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Contact-Contact Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/ContentVersion-Content Version Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Contract-Contract Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/DandBCompany-D%26B Company Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Deal__c-CreateDeals.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Deal__c-PageForDeal.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Deal__c-Rend Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/DuplicateRecordSet-Duplicate Record Set Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/EmailMessage-Email Message Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Event-Event Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Expense__c-Expense Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/FeedItem-Feed Item Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Global-Global Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Idea-Idea Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Lead-Lead %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Lead-Lead %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Lead-Lead %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Lead-Lead Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Macro-Macro Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Opportunity-Opportunity %28Marketing%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Opportunity-Opportunity %28Sales%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Opportunity-Opportunity %28Support%29 Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Opportunity-Opportunity Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/OpportunityLineItem-Opportunity Product Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Order-Order Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/OrderItem-Order Product Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Pricebook2-Price Book Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/PricebookEntry-Price Book Entry Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Product2-Product Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Project__c-Project Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/QuickText-Quick Text Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Sales__c-Sales Manager Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Sales__c-defEmail.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Sales__c-emai.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Scorecard-Scorecard Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/ScorecardAssociation-Scorecard Association Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/ScorecardMetric-Scorecard Metric Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/SocialPersona-Social Persona Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Solution-Solution Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/Task-Task Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/User-User Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/UserProvAccount-User Provisioning Account Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/UserProvisioningLog-User Provisioning Log Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/UserProvisioningRequest-User Provisioning Request Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/cust__c-cust Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/layouts/test__c-test Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/BugCaseAssociation__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/Camping_Item__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/Car__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/Deal__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/Expense__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/ObjectForStatus__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/Open__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/Project__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/Sales__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objectTranslations/validWord__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Account.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/AccountCleanInfo.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/AccountContactRole.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Activity.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Asset.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/AssetRelationship.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/AssistantProgress.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/BugCaseAssociation__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Campaign.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/CampaignMember.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Camping_Item__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Car__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Case.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/CaseContactRole.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/ChatterActivity.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/CollaborationGroup.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/CollaborationGroupMember.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Contact.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/ContactCleanInfo.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/ContentVersion.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Contract.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/ContractContactRole.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/DandBCompany.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Deal__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/DuplicateRecordItem.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/DuplicateRecordSet.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/EmailMessage.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Event.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/ExchangeUserMapping.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Expense__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/FeedItem.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/ForecastingCategoryMapping.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Idea.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Lead.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/LeadCleanInfo.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Macro.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/MacroAction.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/MacroInstruction.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/ObjectForStatus__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Open__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Opportunity.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/OpportunityCompetitor.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/OpportunityContactRole.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/OpportunityLineItem.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Order.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/OrderItem.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/OrgDeleteRequest.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/PartnerRole.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Pricebook2.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/PricebookEntry.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Product2.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Project__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/QuickText.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/RecordAction.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/RequestsForAccessSIQ.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Sales__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Scorecard.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/ScorecardAssociation.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/ScorecardMetric.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Site.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/SocialPersona.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Solution.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/StreamActivityAccess.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/StreamingChannel.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Task.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/Topic.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/TopicAssignment.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/User.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/UserProvisioningRequest.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/cust__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/test__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/objects/validWord__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/package.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/pages/ContactView.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/pages/CreateContact.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/pages/DealsInfo.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/pages/DealsInfo.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/pages/OppView.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/pages/OppView.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/pages/ShowImage.page" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/pages/ShowImage.page-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Case.LogACall.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Case.NewChildCase.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/CollaborationGroup.NewGroupMember.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/CollaborationGroup.NewGroupRecord.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/FeedItem.NewTaskFromFeedItem.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/LogACall.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/NewAccount.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/NewCase.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/NewContact.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/NewEvent.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/NewGroup.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/NewLead.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/NewNote.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/NewOpportunity.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/NewTask.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/SendEmail.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Task.Defer.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Task.Defer_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Task.EditDescription.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Task.EditDescription_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Task.UpdatePriority.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Task.UpdatePriority_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Task.UpdateStatus.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/quickActions/Task.UpdateStatus_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/CEO.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/CFO.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/COO.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/ChannelSalesTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/Chief_Sales_Officer.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/CustomerSupportInternational.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/CustomerSupportNorthAmerica.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/DirectorChannelSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/DirectorDirectSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/EasternSalesTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/InstallationRepairServices.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/MarketingTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/SVPCustomerServiceSupport.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/SVPHumanResources.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/SVPSalesMarketing.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/Sales_Strategy_Manager.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/Training_Coordinator.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/VPInternationalSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/VPMarketing.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/VPNorthAmericanSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/roles/WesternSalesTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/settings/Account.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/settings/Address.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/settings/Knowledge.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/settings/OrgPreference.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/staticresources/jQuery.resource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/staticresources/jQuery.resource-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/staticresources/jQueryMobile.resource-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/staticresources/vfimagetest.resource-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/tabs/Car__c.tab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/tabs/Deal__c.tab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/tabs/Sales__c.tab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/triggers/TriggerForCar.trigger" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/triggers/TriggerForCar.trigger-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/triggers/TriggerForDeal.trigger" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/triggers/TriggerForDeal.trigger-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Account.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Asset.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/AssetRelationship.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/AssistantProgress.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/BugCaseAssociation__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Campaign.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/CampaignMember.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Camping_Item__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Car__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Case.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/ChatterActivity.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/CollaborationGroup.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/CollaborationGroupMember.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Contact.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Contract.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/DandBCompany.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Deal__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/DuplicateRecordItem.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/DuplicateRecordSet.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/EmailMessage.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Event.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/ExchangeUserMapping.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Expense__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/FeedItem.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Idea.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Lead.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Macro.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/MacroAction.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/MacroInstruction.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/ObjectForStatus__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Open__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Opportunity.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/OpportunityLineItem.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Order.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/OrderItem.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/OrgDeleteRequest.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Organization.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Product2.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Project__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/QuickText.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/RequestsForAccessSIQ.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Sales__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Site.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/SocialPersona.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Solution.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/StreamActivityAccess.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/StreamingChannel.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Task.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/Topic.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/TopicAssignment.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/User.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/UserLicense.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/UserProvisioningRequest.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/cust__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/test__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WorkTask/workflows/validWord__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/assignmentRules/Case.assignmentRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/assignmentRules/Lead.assignmentRules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCar.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCars.cmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCars.cmp-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCars.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCarsController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCarsHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeal/RelatedDeal.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeal/RelatedDeal.app-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.app-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.cmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.cmp-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDealsController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDealsHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/campingList/campingListHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/aura/campingListItem/campingListItemController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/AvailableCarController.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/AvailableCarController.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/CampingListController.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/CampingListController.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/ComponentController.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/ComponentController.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/ControllerForDealsTest.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/ControllerForDealsTest.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/ControllerRelatedDeals.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/ControllerRelatedDeals.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/RelatedDeals.cls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/RelatedDeals.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/TestNAme.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/carId.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/deal.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/handlerToTest.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/listDeals.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/newDeals.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/classes/salesManagerFordzeals.cls-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/components/ComponentRelatedDeals.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/components/ComponentRelatedDeals.component-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/components/Related_Deals.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/components/Related_Deals.component-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/flowDefinitions/Closed_Won_Opportunities.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/flowDefinitions/ForEmail.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/flowDefinitions/HomrWork.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/flowDefinitions/SetEmail.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/flowDefinitions/send.flowDefinition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/groups/Chelleng.group" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/homePageLayouts/DE Default.homePageLayout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/layouts/Camping_Item__c-Camping Item Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/layouts/Deal__c-CreateDeals.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/layouts/Deal__c-PageForDeal.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/layouts/Expense__c-Expense Layout.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/BugCaseAssociation__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/Camping_Item__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/Car__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/Deal__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/Expense__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/ObjectForStatus__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/Open__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/Project__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/Sales__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objectTranslations/validWord__c-en_US.objectTranslation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objects/Camping_Item__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/objects/Expense__c.object" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Case.LogACall.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Case.NewChildCase.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/CollaborationGroup.NewGroupMember.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/CollaborationGroup.NewGroupRecord.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/FeedItem.NewTaskFromFeedItem.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/LogACall.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/NewAccount.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/NewCase.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/NewContact.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/NewEvent.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/NewGroup.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/NewLead.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/NewNote.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/NewOpportunity.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/NewTask.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/SendEmail.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Task.Defer.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Task.Defer_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Task.EditDescription.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Task.EditDescription_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Task.UpdatePriority.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Task.UpdatePriority_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Task.UpdateStatus.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/quickActions/Task.UpdateStatus_0.quickAction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/CEO.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/CFO.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/COO.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/ChannelSalesTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/Chief_Sales_Officer.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/CustomerSupportInternational.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/CustomerSupportNorthAmerica.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/DirectorChannelSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/DirectorDirectSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/EasternSalesTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/InstallationRepairServices.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/MarketingTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/SVPCustomerServiceSupport.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/SVPHumanResources.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/SVPSalesMarketing.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/Sales_Strategy_Manager.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/Training_Coordinator.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/VPInternationalSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/VPMarketing.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/VPNorthAmericanSales.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/roles/WesternSalesTeam.role" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/settings/Account.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/settings/Address.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/settings/Knowledge.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/settings/OrgPreference.settings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/staticresources/jQuery.resource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/staticresources/jQuery.resource-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/staticresources/jQueryMobile.resource-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/staticresources/vfimagetest.resource-meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/workflows/Camping_Item__c.workflow" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unpackaged/workflows/Expense__c.workflow" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unpackaged/classes/ControllerForDeals.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unpackaged/classes/DataBasesMethods.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unpackaged/classes/test.cls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unpackaged/pages/AccountDetail.page" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unpackaged/pages/AccountSummary.page" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/classes/DataBasesMethods.cls-meta.xml" afterPath="$PROJECT_DIR$/.apex/unpackaged/classes/AccountHandler.cls-meta.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/classes/TestRestrictContactByName2.cls" afterPath="$PROJECT_DIR$/.apex/unpackaged/classes/TestRestrictContactByName2.cls" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/classes/TestRestrictContactByName2.cls-meta.xml" afterPath="$PROJECT_DIR$/.apex/unpackaged/classes/ArrayTest.cls-meta.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/classes/TestVerifyDate.cls" afterPath="$PROJECT_DIR$/.apex/unpackaged/classes/TestVerifyDate.cls" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/classes/TestVerifyDate.cls-meta.xml" afterPath="$PROJECT_DIR$/.apex/unpackaged/classes/CampingListController.cls-meta.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/pages/AccountDetail.page-meta.xml" afterPath="$PROJECT_DIR$/.apex/unpackaged/pages/AccountList.page-meta.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/pages/AccountSummary.page-meta.xml" afterPath="$PROJECT_DIR$/.apex/unpackaged/pages/CreateContact.page-meta.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/pages/ContactView.page-meta.xml" afterPath="$PROJECT_DIR$/.apex/unpackaged/pages/ContactView.page-meta.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/pages/DisplayImage.page" afterPath="$PROJECT_DIR$/.apex/unpackaged/pages/DisplayImage.page" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/pages/DisplayImage.page-meta.xml" afterPath="$PROJECT_DIR$/.apex/unpackaged/pages/DisplayImage.page-meta.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/pages/DisplayUserInfo.page" afterPath="$PROJECT_DIR$/.apex/unpackaged/pages/DisplayUserInfo.page" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/pages/DisplayUserInfo.page-meta.xml" afterPath="$PROJECT_DIR$/.apex/unpackaged/pages/DisplayUserInfo.page-meta.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/pages/UserStatus.page" afterPath="$PROJECT_DIR$/.apex/unpackaged/pages/UserStatus.page" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unpackaged/pages/UserStatus.page-meta.xml" afterPath="$PROJECT_DIR$/.apex/unpackaged/pages/UserStatus.page-meta.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WorkTask.iml" afterPath="$PROJECT_DIR$/WorkTask.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/classes/CarHandler.cls" afterPath="$PROJECT_DIR$/unpackaged/classes/CarHandler.cls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/classes/CarHandlerTest.cls" afterPath="$PROJECT_DIR$/unpackaged/classes/CarHandlerTest.cls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/classes/CarHandlerTest.cls-meta.xml" afterPath="$PROJECT_DIR$/unpackaged/classes/CarHandlerTest.cls-meta.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/classes/CarRentDAO.cls" afterPath="$PROJECT_DIR$/unpackaged/classes/CarRentDAO.cls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/classes/CarRentServices.cls" afterPath="$PROJECT_DIR$/unpackaged/classes/CarRentServices.cls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/classes/DealHandler.cls" afterPath="$PROJECT_DIR$/unpackaged/classes/DealHandler.cls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls" afterPath="$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/layouts/Car__c-Car Layout.layout" afterPath="$PROJECT_DIR$/unpackaged/layouts/Car__c-Car Layout.layout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/objects/Car__c.object" afterPath="$PROJECT_DIR$/unpackaged/objects/Car__c.object" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/package.xml" afterPath="$PROJECT_DIR$/unpackaged/package.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/pages/ContactView.page" afterPath="$PROJECT_DIR$/unpackaged/pages/ContactView.page" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unpackaged/pages/DealsInfo.page" afterPath="$PROJECT_DIR$/unpackaged/pages/DealsInfo.page" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/.apex/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="C:\Users\dkachanovskyi\IdeaProjects\WorkTask" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="ApexPage" />
+        <option value="ApexPage.page-meta" />
+        <option value="ApexComponent" />
+        <option value="ApexComponent.component-meta" />
+        <option value="CustomApplication" />
+        <option value="LightningHelper" />
+        <option value="Lightning.app-meta" />
+        <option value="ApexTrigger" />
+        <option value="ApexTrigger.trigger-meta" />
+        <option value="ApexClass" />
+        <option value="ApexClass.cls-meta" />
+        <option value="LightningController" />
+        <option value="Lightning" />
+        <option value="Lightning.cmp-meta" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DealHandlerTest</find>
+      <find>checkedFor</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/unpackaged/aura/HellooWorld/HelloWorld.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/CarHandlerTest.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/DealHandler.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/ControllerForDealsTest.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/ControllerForDeals.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/CarRentServices.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/ControllerforComponent.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/ControllerforComponentBase.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/ComponentControllerBase.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/ComponentController.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/pages/DealsInfo.page" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/components/Related_Deals.component" />
+        <option value="$PROJECT_DIR$/unpackaged/components/ComponentRelatedDeals.component" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/harnessApp/harnessApp.app" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/helloComponent/helloComponent.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/campingHeader/campingHeader.css" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/camping/camping.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/campListItem/campListItem.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/Expenses/Expenses.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/campingListItem/campingListItem.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/DealComponent/DealComponent.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/campingListItem/campingListItemController.js" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/campingListItem/CampingListItem.cmp.html" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/campingListItem/campingListController.js" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/LightApp/LightApp.app" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/TestApp/TestApp.app" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/campingHeader/campingHeader.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/CreateDeals/CreateDeals.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/CampingListItem/CampingListItem.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/AvailableCar/AvailableCar.app" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/RelatedDealsController.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCar.css" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCarsHelper.js" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCars.css" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCarsController.js" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/CarRentDAO.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/CarHandler.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/RelatedDeals.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCars.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/AvailableCarController.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.app" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/ControllerRelatedDeals.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/CampingListController .cls" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/CampingList/CampingList.cmp" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/CampingList/CampingListController.js" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDealsController.js" />
+        <option value="$PROJECT_DIR$/unpackaged/classes/CampingListController.cls" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/CampingListHelper/CampingListHelperController.js" />
+        <option value="$PROJECT_DIR$/unpackaged/aura/campingList/campingList.cmp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Apex</id>
+          </State>
+          <State>
+            <id>Declaration RedundancyApex</id>
+          </State>
+          <State>
+            <id>Error HandlingApex</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SFUnresolvedReference</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unpackaged" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unpackaged" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unpackaged" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unpackaged" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aura" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RelatedDeals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unpackaged" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aura" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RelatedDeal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unpackaged" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aura" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.account" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="StandardPathKeyPrefix:ApexClass" value="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\classes" />
+    <property name="StandardPathKeyPrefix:ApexPage" value="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\pages" />
+    <property name="UseStandardLocationKey" value="true" />
+    <property name="StandardPathKeyPrefix:ApexTrigger" value="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\triggers" />
+    <property name="LastSelectedSalesforceComponentKey" value="Component" />
+    <property name="StandardPathKeyPrefix:ApexComponent" value="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\components" />
+    <property name="StandardPathKeyPrefix:CustomApplication" value="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\applications" />
+    <property name="StandardPathKeyPrefix:AuraDefinitionBundle" value="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\aura" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\aura\CampingList" />
+      <recent name="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\aura\RelatedDeal" />
+      <recent name="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\aura\AvailableCars" />
+      <recent name="C:\Users\dkachanovskyi\IdeaProjects\WorkTask\unpackaged\aura\CreateDeals" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Apex Test.CarHandlerTest">
+    <configuration default="false" name="DealHandlerTest.TestProcessBeforeUpdateCloseDateFail" type="ApexTest" factoryName="Apex Test" temporary="true" nameIsGenerated="true">
+      <option name="methodName" value="TestProcessBeforeUpdateCloseDateFail" />
+      <option name="testFilePath" value="$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls" />
+      <option name="testKind" value="Method" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DealHandlerTest.TestProcessBeforeInsertCheckForStatusSuccess" type="ApexTest" factoryName="Apex Test" temporary="true" nameIsGenerated="true">
+      <option name="methodName" value="TestProcessBeforeInsertCheckForStatusSuccess" />
+      <option name="testFilePath" value="$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls" />
+      <option name="testKind" value="Method" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DealHandlerTest.TestProcessBeforeInsertCheckForStatusFail" type="ApexTest" factoryName="Apex Test" temporary="true" nameIsGenerated="true">
+      <option name="methodName" value="TestProcessBeforeInsertCheckForStatusFail" />
+      <option name="testFilePath" value="$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls" />
+      <option name="testKind" value="Method" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DealHandlerTest" type="ApexTest" factoryName="Apex Test" temporary="true" nameIsGenerated="true">
+      <option name="testFilePath" value="$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DealHandlerTest.TestProcessBeforeUpdateCloseDateSuccess" type="ApexTest" factoryName="Apex Test" temporary="true" nameIsGenerated="true">
+      <option name="methodName" value="TestProcessBeforeUpdateCloseDateSuccess" />
+      <option name="testFilePath" value="$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls" />
+      <option name="testKind" value="Method" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WorkTask" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="CarHandlerTest" type="ApexTest" factoryName="Apex Test" nameIsGenerated="true">
+      <option name="testFilePath" value="$PROJECT_DIR$/unpackaged/classes/CarHandlerTest.cls" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Apex Test.CarHandlerTest" />
+      <item index="1" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest.TestProcessBeforeUpdateCloseDateFail" />
+      <item index="2" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest.TestProcessBeforeInsertCheckForStatusSuccess" />
+      <item index="3" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest.TestProcessBeforeInsertCheckForStatusFail" />
+      <item index="4" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest" />
+      <item index="5" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest.TestProcessBeforeUpdateCloseDateSuccess" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest.TestProcessBeforeUpdateCloseDateFail" />
+        <item index="1" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest.TestProcessBeforeUpdateCloseDateSuccess" />
+        <item index="2" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest.TestProcessBeforeInsertCheckForStatusSuccess" />
+        <item index="3" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest" />
+        <item index="4" class="java.lang.String" itemvalue="Apex Test.DealHandlerTest.TestProcessBeforeInsertCheckForStatusFail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SFStoredExecutionPersistentComponent">
+    <executions>
+      <execution name="Default" sourceToExecute="" />
+    </executions>
+    <lastSelectedExecutionName>Default</lastSelectedExecutionName>
+  </component>
+  <component name="SFUnavailableTypes">
+    <types>
+      <type value="Portal" />
+      <type value="Translations" />
+      <type value="CommunityThemeDefinition" />
+      <type value="CommunityTemplateDefinition" />
+    </types>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27390adc-2a08-4cf8-bb93-c3d68717fbdd" name="Default" comment="" />
+      <created>1544001546088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544001546088</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Deploy with ApexVCS">
+      <created>1544003393652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544003393652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deploy with ApexVCS">
+      <created>1544003555695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544003555695</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Testing git">
+      <created>1544004239721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544004239721</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Deleted clases">
+      <created>1544004581720</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544004581720</updated>
+    </task>
+    <task id="LOCAL-00005" summary="set project">
+      <created>1544004940033</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544004940033</updated>
+    </task>
+    <task id="LOCAL-00006" summary="set project">
+      <created>1544004970308</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544004970308</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create 2 classes swich not duplication">
+      <created>1544178900602</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544178900602</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create 2 classes swich not duplication fix">
+      <created>1544187484778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544187484778</updated>
+    </task>
+    <task id="LOCAL-00009" summary="DealHandler&#10;fix">
+      <created>1544434864602</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544434864602</updated>
+    </task>
+    <task id="LOCAL-00010" summary="writed 3Trigger for Duplication">
+      <created>1544610676268</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544610676268</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add pages">
+      <created>1545061010513</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545061010513</updated>
+    </task>
+    <task id="LOCAL-00012" summary="comit only test class with bug">
+      <created>1545141936577</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1545141936577</updated>
+    </task>
+    <task id="LOCAL-00013" summary="comit only test class with bug!">
+      <created>1545142265712</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1545142265712</updated>
+    </task>
+    <task id="LOCAL-00014" summary="create 2 classes for pages">
+      <created>1545917513985</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1545917513985</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix bug pages VF">
+      <created>1545923984126</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1545923984126</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DealHandlerTest - 2018.12.21 at 12h 18m 20s.xml">
+      <configuration name="DealHandlerTest" configurationId="ApexTest" />
+    </history-entry>
+    <history-entry file="DealHandlerTest - 2018.12.21 at 12h 19m 00s.xml">
+      <configuration name="DealHandlerTest" configurationId="ApexTest" />
+    </history-entry>
+    <history-entry file="DealHandlerTest_TestProcessBeforeInsertCheckForStatusFail - 2018.12.21 at 11h 51m 36s.xml">
+      <configuration name="DealHandlerTest.TestProcessBeforeInsertCheckForStatusFail" configurationId="ApexTest" />
+    </history-entry>
+    <history-entry file="DealHandlerTest_TestProcessBeforeInsertCheckForStatusFail - 2018.12.21 at 12h 17m 55s.xml">
+      <configuration name="DealHandlerTest.TestProcessBeforeInsertCheckForStatusFail" configurationId="ApexTest" />
+    </history-entry>
+    <history-entry file="DealHandlerTest_TestProcessBeforeInsertCheckForStatusSuccess - 2018.12.21 at 11h 56m 56s.xml">
+      <configuration name="DealHandlerTest.TestProcessBeforeInsertCheckForStatusSuccess" configurationId="ApexTest" />
+    </history-entry>
+    <history-entry file="DealHandlerTest_TestProcessBeforeInsertCheckForStatusSuccess - 2018.12.21 at 12h 30m 40s.xml">
+      <configuration name="DealHandlerTest.TestProcessBeforeInsertCheckForStatusSuccess" configurationId="ApexTest" />
+    </history-entry>
+    <history-entry file="DealHandlerTest_TestProcessBeforeUpdateCloseDateFail - 2018.12.21 at 16h 33m 25s.xml">
+      <configuration name="DealHandlerTest.TestProcessBeforeUpdateCloseDateFail" configurationId="ApexTest" />
+    </history-entry>
+    <history-entry file="DealHandlerTest_TestProcessBeforeUpdateCloseDateSuccess - 2018.12.21 at 15h 36m 16s.xml">
+      <configuration name="DealHandlerTest.TestProcessBeforeUpdateCloseDateSuccess" configurationId="ApexTest" />
+    </history-entry>
+    <history-entry file="DealHandlerTest_TestProcessBeforeUpdateCloseDateSuccess - 2018.12.21 at 16h 15m 40s.xml">
+      <configuration name="DealHandlerTest.TestProcessBeforeUpdateCloseDateSuccess" configurationId="ApexTest" />
+    </history-entry>
+    <history-entry file="DealHandlerTest_TestProcessBeforeUpdateCloseDateSuccess - 2018.12.21 at 16h 15m 57s.xml">
+      <configuration name="DealHandlerTest.TestProcessBeforeUpdateCloseDateSuccess" configurationId="ApexTest" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37315875" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59738135" sideWeight="0.5060514" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66939443" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30932897" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24205749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3207856" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37315875" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59738135" sideWeight="0.5060514" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2111293" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66939443" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30932897" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
+    <MESSAGE value="Deploy with ApexVCS" />
+    <MESSAGE value="Testing git" />
+    <MESSAGE value="Deleted clases" />
+    <MESSAGE value="set project" />
+    <MESSAGE value="create 2 classes swich not duplication" />
+    <MESSAGE value="create 2 classes swich not duplication fix" />
+    <MESSAGE value="DealHandler&#10;fix" />
+    <MESSAGE value="writed 3Trigger for Duplication" />
+    <MESSAGE value="add pages" />
+    <MESSAGE value="comit only test class with bug" />
+    <MESSAGE value="comit only test class with bug!" />
+    <MESSAGE value="create 2 classes for pages" />
+    <MESSAGE value="fix bug pages VF" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bug pages VF" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/unpackaged/applications/HarnessApp.app" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/components/ComponentRelatedDeals.component">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/harnessApp/harnessApp.app" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/helloComponent/helloComponent.cmp" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/campingHeader/campingHeader.css" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/camping/camping.cmp" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/campListItem/campListItem.cmp" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/Expenses/Expenses.cmp" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/DealComponent/DealComponent.cmp" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/campingListItem/campingListItemHelper.js" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/campingListItem/CampingListItem.cmp.html" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/TestApp/TestApp.app" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/LightApp/LightApp.app" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/campingListItem/campingListController.js" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/DealHeader/DealHeader.app" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/CreateDeals/DealHeader.cmp" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/AvailableCarsControllr/AvailableCarsControllrController.js" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/CreateDeals/CreateDeals.cmp" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCarsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCars.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCarsHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/RelatedDealsController.cls" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/ComponentController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/DealHandler.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/components/Related_Deals.component">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/pages/DealsInfo.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDealsHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/CarHandlerTest.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/CarRentServices.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/DealHandlerTest.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2869">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/CarRentDAO.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="93" lean-forward="false" selection-start-line="2" selection-start-column="93" selection-end-line="2" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/CarHandler.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="76" lean-forward="false" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/RelatedDeals.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCar.app">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/AvailableCars/AvailableCars.cmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/CampingListController .cls" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/triggers/CampingListController .trigger" />
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/CampingList/campingHeader.cmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/CampingList/CampingListController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/ControllerRelatedDeals.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#621#625#0" expanded="false" />
+            <element signature="e#841#850#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.cmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="50" lean-forward="false" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/AvailableCarController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDeals.app">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/classes/CampingListController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/RelatedDeals/RelatedDealsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/CampingList/CampingListItemController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/CampingList/CampingListHelperController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/CampingList/CampingListItem.cmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="148" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="148" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unpackaged/aura/campingList/campingList.cmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

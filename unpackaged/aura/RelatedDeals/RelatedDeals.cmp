@@ -1,0 +1,30 @@
+<aura:component controller="ControllerRelatedDeals"
+                implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global">
+    <aura:attribute name="deals" type="Deal__c[]"/>
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+
+    <table>
+        <thead>
+        <tr class="slds-text-heading_label">
+            <th scope="col"><div class="slds-truncate" title="Car">Car</div></th>
+            <th scope="col"><div class="slds-truncate" title="EndDate">EndDate</div></th>
+            <th scope="col"><div class="slds-truncate" title="StartDate">StartDate</div></th>
+            <th scope="col"><div class="slds-truncate" title="Sales_Manager">Sales_Manager</div></th>
+            <th scope="col"><div class="slds-truncate" title="Status">Status</div></th>
+        </tr>
+        </thead>
+     <aura:iteration items="{!v.deals}" var="deal">
+        <tbody>
+            <tr>
+                <th scope="row"><div class="slds-truncate" title="{!deal.Car__r.Name}"><a href="{!'/one/one.app?#/sObject/'+ deal.Car__c + '/view'}" target="_blank">{!deal.Car__r.Name}</a></div></th>
+                <td><div class="slds-truncate" title="{!deal.EndDate__c}">{!deal.EndDate__c}</div></td>
+                <td><div class="slds-truncate" title="{!deal.StartDate__c}">{!deal.StartDate__c}</div></td>
+                <td><div class="slds-truncate" title="{!deal.Sales_Manager__r.Name__c}">{!deal.Sales_Manager__c}</div></td>
+                <td><div class="slds-truncate" title="{!deal.Status__c}">{!deal.Status__c}</div></td>
+            </tr>
+
+        </tbody>
+     </aura:iteration>
+    </table>
+</aura:component>

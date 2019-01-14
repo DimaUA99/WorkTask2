@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Car</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Cars</value>
+    </caseValues>
+    <fields>
+        <label><!-- IsValidForRent --></label>
+        <name>IsValidForRent__c</name>
+    </fields>
+    <fields>
+        <label><!-- Photo --></label>
+        <name>Photo__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+        <picklistValues>
+            <masterLabel>Hatchback</masterLabel>
+            <translation><!-- Hatchback --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Minivan</masterLabel>
+            <translation><!-- Minivan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sedan</masterLabel>
+            <translation><!-- Sedan --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Car Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Do not allow text &quot;Fish&quot; to appear in Name field)) --></errorMessage>
+        <name>ValidForWord</name>
+    </validationRules>
+</CustomObjectTranslation>

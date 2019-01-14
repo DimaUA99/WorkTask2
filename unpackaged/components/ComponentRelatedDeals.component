@@ -1,0 +1,17 @@
+<apex:component controller="ComponentController">
+<apex:attribute name="carId" description=""
+                type="Id" required="false" assignto="{!carsId}"/>
+    <apex:form>
+    <apex:pageblock title=" All_related_deals">
+        <apex:pageblocktable value="{!carsId}" var="car">
+
+            <apex:pageblocktable value="{!carsId}" var="car">
+                <apex:column value="{! car.StartDate__c}"/>
+                <apex:column value="{! car.EndDate__c}"/>
+                <apex:column value="{! car.Status__c}"/>
+                <apex:column value="{! car.Car__c}"/>
+
+        </apex:pageblocktable>
+    <apex:pageblock/>
+</apex:form>
+</apex:component>

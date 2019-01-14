@@ -1,0 +1,39 @@
+<aura:component controller="AvailableCarController"
+                implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global">
+    <aura:attribute name="cars" type="Car__c[]"/>
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+    <table class="slds-table slds-table_cell-buffer slds-table_bordered slds-table_col-bordered slds-table_fixed-layout">
+        <thead>
+        <tr class="slds-line-height_reset">
+            <th class="" scope="col">
+                <div class="slds-truncate" title="Name">Name</div>
+            </th>
+             <th class="" scope="col">
+                <div class="slds-truncate" title="IsValidForRent">IsValidForRent</div>
+            </th>
+            <th class="" scope="col">
+                <div class="slds-truncate" title="Type">Type</div>
+            </th>
+            <th class="" scope="col">
+                <div class="slds-truncate" title="Stage">Photo</div>
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+            <aura:iteration items="{!v.cars}" var="car">
+                <tr>
+
+                    <td><div class="slds-truncate" title="{!car.Name}">
+                        <a href="{!'/one/one.app?#/sObject/'+ car.Id + '/view'}" target="_blank">{!car.Name}</a></div></td>
+                    <td><div class="slds-truncate" title="{!car.Type__c}">{!car.Type__c}</div></td>
+                    <td><div class="slds-truncate" title="{IsValidForRent}">{!car.IsValidForRent__c}</div></td>
+                    <td>
+                        <lightning:button label="Show Image" value="{!car.Id}" onclick="{!c.doToggle}" />
+                        <div class="slds-truncate hidden" data-id="{!car.Id}" aura:id="imageId" title="Image">
+                            <aura:unescapedHtml value="{!car.Photo__c}"/></div></td>
+                </tr>
+            </aura:iteration>
+        </tbody>
+    </table>
+</aura:component>

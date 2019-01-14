@@ -1,0 +1,14 @@
+<apex:component>
+    <apex:attribute name="relatedDeals" description="" type="Deal__c[]"/>
+        <apex:form>
+        <apex:pageblock title=" All_related_deals">
+            <apex:pageblocktable value="{!relatedDeals}" var="deal">
+                <apex:column value="{! deal.StartDate__c}"/>
+                <apex:column value="{! deal.EndDate__c}"/>
+                <apex:column value="{! deal.Status__c}"/>
+                <apex:column value="{! deal.Car__c}"/>
+            </apex:pageblocktable>
+        </apex:pageblock>
+    </apex:form>
+</apex:component>
+

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexVcsIndex">
+    <index-record>
+      <option name="path" value="/unpackaged/pages/AccountList.page" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/AvailableCars/AvailableCars.cmp-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/camping/camping.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/camping/camping.cmp-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/TestVerifyDate.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/TemperatureConverterTest.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListController.js" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-move-record>
+      <option name="firstPath" value="/unpackaged/aura/CampingListHelper/CampingListHelperController.js" />
+      <option name="path" value="/unpackaged/aura/CampingList/CampingListHelperController.js" />
+    </index-move-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/RelatedDeals/RelatedDeals.css" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/tabs/cust__c.tab" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingList/campingList.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/CarHandlerTest.cls-meta" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/EmailMissionSpecialist.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/CreateDeals/CreateDeals.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/TestNAme.cls-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/harnessApp/harnessApp.app" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/pages/DisplayImage.page" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/CampingList/CampingListController.js" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/Test.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingList/campingListHelper.js" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/AvailableCarController.cls" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/pages/DisplayUserInfo.page" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/pages/StationCheck.page" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/pages/FlightSystemsChecklist.page" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/newDeals.cls-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/listDeals.cls-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/triggers/TriggerForStatus.trigger" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/TestApp/TestApp.app" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/ArrayTest.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/AccountHandler.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/RelatedDealsController.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/RelatedDeals/RelatedDeals.cmp-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/AvailableCars/AvailableCars.css" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/triggers/HelloWorldTrigger.trigger" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/deal.cls-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/TemperatureConverter.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/pages/UserStatus.page" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/CarHandler.cls" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/HelloWorld/HellooWorld.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/ControllerForDeals.cls-meta" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/HellooWorld/HellooWorld.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/RelatedDeal/RelatedDeals.app" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/ContactAndLeadSearch.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListItem.cmp" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-move-record>
+      <option name="firstPath" value="/unpackaged/classes/ControllerForDeals.cls-meta.xml" />
+      <option name="path" value="/unpackaged/classes/carId.cls-meta.xml" />
+    </index-move-record>
+    <index-record>
+      <option name="path" value="/unpackaged/triggers/RestrictContactByName.trigger" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListItem.cmp-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/RelatedDeals.cls-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingList/CampingListController.js" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/pages/DealsInfo.page" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/pages/ShowImage.page" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/helloComponent/helloComponent.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/SOQLQuerie.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/CampingList/CampingList.cmp" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campListItem/campListItem.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/RelatedDeals/RelatedDeals.app-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/EmailManager.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingListItem/CampingListItem.cmp-meta.xml" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/SOSL.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/ControllerForCar.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/InsertAcc.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/HelloWorld/HelloWorld.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListItemHelper.js" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/pages/OppView.page" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListItem.svg" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/triggers/AccountAddressTrigger.trigger" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/HellooWorld/HellooWorld.cmp-meta.xml" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/HelloWorld/HellooWorld.cmp-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/salesManagerFordzeals.cls-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/components/ComponentRelatedDeals.component" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingListItem/CampingListItem.cmp.html" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/AvailableCars/AvailableCars.cmp" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/VerifyDate.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/TestDataFactory.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/CarRentServices.cls" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/ControllerForCar.cls-meta" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListItem.css" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/campingHeader/campingHeader.cmp-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingList/campingList.cmp-meta.xml" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingList/CampingListHelperController.js" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/handlerToTest.cls-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/RandomContactFactory.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/TestRestrictContactByName2.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/CampingList/CampingListHelperController.js" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/AvailableCars/AvailableCarsHelper.js" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListItemController.js" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/triggers/ExampleTrigger.trigger" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/Expenses/Expenses.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/helloComponent/helloComponent.cmp-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/pages/CreateContact.page" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListItem.auradoc" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingHeader/campingHeader.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/ContactSearch.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/triggers/TriggerValidationStatus.trigger" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/TestApp/TestApp.app-meta.xml" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingHeader/campingHeader.css" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/harnessApp/harnessApp.app-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/CampingListItem/CampingListItem.cmp-meta.xml" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/StringArrayTest.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/RelatedDeals/RelatedDeals.app" />
+      <option name="type" value="MODIFIED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListItem.design" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="hasConflicts" value="true" />
+      <option name="path" value="/unpackaged/aura/AvailableCar/AvailableCar.app-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/triggers/ClosedOpportunityTrigger.trigger" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/aura/campingListItem/campingListItemRenderer.js" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/unpackaged/classes/ContactsListController.cls" />
+      <option name="type" value="DELETED" />
+    </index-record>
+  </component>
+</project>

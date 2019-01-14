@@ -1,32 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="salesforce.module" version="4">
-  <component name="ComponentSet">
+  <component name="ComponentSet" allManaged="false">
     <type2Names>
-      <SFMetaTypeNamesState type="APEX_PAGE" setAll="true">
+      <SFMetaTypeNamesState type="ROLE" setAll="true">
         <option name="myNames">
           <set>
-            <option value="DisplayImage" />
-            <option value="DisplayUserInfo" />
-            <option value="FlightSystemsChecklist" />
-            <option value="StationCheck" />
-            <option value="UserStatus" />
+            <option value="CEO" />
+            <option value="CFO" />
+            <option value="COO" />
+            <option value="ChannelSalesTeam" />
+            <option value="Chief_Sales_Officer" />
+            <option value="CustomerSupportInternational" />
+            <option value="CustomerSupportNorthAmerica" />
+            <option value="DirectorChannelSales" />
+            <option value="DirectorDirectSales" />
+            <option value="EasternSalesTeam" />
+            <option value="InstallationRepairServices" />
+            <option value="MarketingTeam" />
+            <option value="SVPCustomerServiceSupport" />
+            <option value="SVPHumanResources" />
+            <option value="SVPSalesMarketing" />
+            <option value="Sales_Strategy_Manager" />
+            <option value="Training_Coordinator" />
+            <option value="VPInternationalSales" />
+            <option value="VPMarketing" />
+            <option value="VPNorthAmericanSales" />
+            <option value="WesternSalesTeam" />
           </set>
         </option>
       </SFMetaTypeNamesState>
-      <SFMetaTypeNamesState type="APEX_COMPONENT" setAll="true" />
-      <SFMetaTypeNamesState type="CUSTOM_TAB" setAll="true">
+      <SFMetaTypeNamesState type="PERMISSION_SET" setAll="true">
         <option name="myNames">
           <set>
-            <option value="Car__c" />
-            <option value="Deal__c" />
-            <option value="Sales__c" />
+            <option value="CRMUserPsl" />
+            <option value="Hiring_Managers" />
+            <option value="Interviewers" />
+            <option value="Rating" />
           </set>
         </option>
       </SFMetaTypeNamesState>
-      <SFMetaTypeNamesState type="CUSTOM_LABELS" setAll="true">
+      <SFMetaTypeNamesState type="PROFILE" setAll="true">
         <option name="myNames">
           <set>
-            <option value="CustomLabels" />
+            <option value="Admin" />
+            <option value="Analytics Cloud Integration User" />
+            <option value="Analytics Cloud Security User" />
+            <option value="Authenticated Website" />
+            <option value="Chatter External User" />
+            <option value="Chatter Free User" />
+            <option value="Chatter Moderator User" />
+            <option value="Cleaner" />
+            <option value="ContractManager" />
+            <option value="Cross Org Data Proxy User" />
+            <option value="Custom%3A Marketing Profile" />
+            <option value="Custom%3A Sales Profile" />
+            <option value="Custom%3A Support Profile" />
+            <option value="Customer Community Login User" />
+            <option value="Customer Community Plus Login User" />
+            <option value="Customer Community Plus User" />
+            <option value="Customer Community User" />
+            <option value="Customer Portal Manager Custom" />
+            <option value="Customer Portal Manager Standard" />
+            <option value="External Identity User" />
+            <option value="Force%2Ecom - App Subscription User" />
+            <option value="Force%2Ecom - Free User" />
+            <option value="Gold Partner User" />
+            <option value="High Volume Customer Portal User" />
+            <option value="HighVolumePortal" />
+            <option value="Identity User" />
+            <option value="MarketingProfile" />
+            <option value="NewProfils" />
+            <option value="Partner App Subscription User" />
+            <option value="Partner Community Login User" />
+            <option value="Partner Community User" />
+            <option value="PlatformPortal" />
+            <option value="ReadOnly" />
+            <option value="Recruiters" />
+            <option value="Sales" />
+            <option value="Silver Partner User" />
+            <option value="SolutionManager" />
+            <option value="Standard" />
+            <option value="Standard Employees" />
+            <option value="StandardAul" />
+            <option value="Work%2Ecom Only User" />
+            <option value="test" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="LIGHTNING_BUNDLE" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="AvailableCar" />
+            <option value="AvailableCars" />
+            <option value="RelatedDeal" />
+            <option value="RelatedDeals" />
+            <option value="campingList" />
+            <option value="campingListItem" />
+            <option value="meetGreet" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="LAYOUT" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="Account-Account %28Marketing%29 Layout" />
+            <option value="Account-Account %28Sales%29 Layout" />
+            <option value="Account-Account %28Support%29 Layout" />
+            <option value="Account-Account Layout" />
+            <option value="Asset-Asset Layout" />
+            <option value="AssetRelationship-Asset Relationship Layout" />
+            <option value="BugCaseAssociation__c-BugCaseAssociation Layout" />
+            <option value="Campaign-Campaign Layout" />
+            <option value="CampaignMember-Campaign Member Page Layout" />
+            <option value="Camping_Item__c-Camping Item Layout" />
+            <option value="Car__c-Car Layout" />
+            <option value="Case-Case %28Marketing%29 Layout" />
+            <option value="Case-Case %28Sales%29 Layout" />
+            <option value="Case-Case %28Support%29 Layout" />
+            <option value="Case-Case Layout" />
+            <option value="CaseClose-Close Case Layout" />
+            <option value="CommunityMemberLayout-Community Member Layout" />
+            <option value="Contact-Contact %28Marketing%29 Layout" />
+            <option value="Contact-Contact %28Sales%29 Layout" />
+            <option value="Contact-Contact %28Support%29 Layout" />
+            <option value="Contact-Contact Layout" />
+            <option value="ContentVersion-Content Version Layout" />
+            <option value="Contract-Contract Layout" />
+            <option value="DandBCompany-D%26B Company Layout" />
+            <option value="Deal__c-CreateDeals" />
+            <option value="Deal__c-PageForDeal" />
+            <option value="DuplicateRecordSet-Duplicate Record Set Layout" />
+            <option value="EmailMessage-Email Message Layout" />
+            <option value="Event-Event Layout" />
+            <option value="Expense__c-Expense Layout" />
+            <option value="FeedItem-Feed Item Layout" />
+            <option value="Global-Global Layout" />
+            <option value="Idea-Idea Layout" />
+            <option value="Lead-Lead %28Marketing%29 Layout" />
+            <option value="Lead-Lead %28Sales%29 Layout" />
+            <option value="Lead-Lead %28Support%29 Layout" />
+            <option value="Lead-Lead Layout" />
+            <option value="Macro-Macro Layout" />
+            <option value="Opportunity-Opportunity %28Marketing%29 Layout" />
+            <option value="Opportunity-Opportunity %28Sales%29 Layout" />
+            <option value="Opportunity-Opportunity %28Support%29 Layout" />
+            <option value="Opportunity-Opportunity Layout" />
+            <option value="OpportunityLineItem-Opportunity Product Layout" />
+            <option value="Order-Order Layout" />
+            <option value="OrderItem-Order Product Layout" />
+            <option value="Pricebook2-Price Book Layout" />
+            <option value="PricebookEntry-Price Book Entry Layout" />
+            <option value="Product2-Product Layout" />
+            <option value="Project__c-Project Layout" />
+            <option value="QuickText-Quick Text Layout" />
+            <option value="Sales__c-defEmail" />
+            <option value="Sales__c-emai" />
+            <option value="Scorecard-Scorecard Layout" />
+            <option value="ScorecardAssociation-Scorecard Association Layout" />
+            <option value="ScorecardMetric-Scorecard Metric Layout" />
+            <option value="SocialPersona-Social Persona Layout" />
+            <option value="SocialPost-Social Post Layout" />
+            <option value="Solution-Solution Layout" />
+            <option value="Task-Task Layout" />
+            <option value="User-User Layout" />
+            <option value="UserProvAccount-User Provisioning Account Layout" />
+            <option value="UserProvisioningLog-User Provisioning Log Layout" />
+            <option value="UserProvisioningRequest-User Provisioning Request Layout" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="COMMUNITY" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="Internal Zone" />
           </set>
         </option>
       </SFMetaTypeNamesState>
@@ -41,33 +187,228 @@
           </set>
         </option>
       </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="QUICK_ACTION" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="Case.LogACall" />
+            <option value="Case.NewChildCase" />
+            <option value="CollaborationGroup.NewGroupMember" />
+            <option value="CollaborationGroup.NewGroupRecord" />
+            <option value="FeedItem.NewTaskFromFeedItem" />
+            <option value="LogACall" />
+            <option value="NewAccount" />
+            <option value="NewCase" />
+            <option value="NewContact" />
+            <option value="NewEvent" />
+            <option value="NewGroup" />
+            <option value="NewLead" />
+            <option value="NewNote" />
+            <option value="NewOpportunity" />
+            <option value="NewTask" />
+            <option value="SendEmail" />
+            <option value="Task.Defer" />
+            <option value="Task.Defer_0" />
+            <option value="Task.EditDescription" />
+            <option value="Task.EditDescription_0" />
+            <option value="Task.UpdatePriority" />
+            <option value="Task.UpdatePriority_0" />
+            <option value="Task.UpdateStatus" />
+            <option value="Task.UpdateStatus_0" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="SHARING_SET" setAll="true" />
+      <SFMetaTypeNamesState type="HOME_PAGE_COMPONENT" setAll="true" />
+      <SFMetaTypeNamesState type="REPORT" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_LABELS" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="CustomLabels" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="QUEUE" setAll="true" />
+      <SFMetaTypeNamesState type="APPROVAL_PROCESS" setAll="true" />
+      <SFMetaTypeNamesState type="ASSIGNMENT_RULES" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="Case" />
+            <option value="Lead" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="HOME_PAGE_LAYOUT" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="DE Default" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="TRANSLATIONS" setAll="true" />
+      <SFMetaTypeNamesState type="SHARING_RULES" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="Account" />
+            <option value="Asset" />
+            <option value="BugCaseAssociation__c" />
+            <option value="Campaign" />
+            <option value="Camping_Item__c" />
+            <option value="Car__c" />
+            <option value="Case" />
+            <option value="Contact" />
+            <option value="Expense__c" />
+            <option value="FlowInterview" />
+            <option value="Lead" />
+            <option value="ListEmail" />
+            <option value="ObjectForStatus__c" />
+            <option value="Open__c" />
+            <option value="Opportunity" />
+            <option value="Order" />
+            <option value="Project__c" />
+            <option value="Sales__c" />
+            <option value="User" />
+            <option value="validWord__c" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="CALL_CENTER" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_TEST_SUITE" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_OBJECT_TRANSLATION" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="BugCaseAssociation__c-en_US" />
+            <option value="Camping_Item__c-en_US" />
+            <option value="Car__c-en_US" />
+            <option value="Deal__c-en_US" />
+            <option value="Expense__c-en_US" />
+            <option value="ObjectForStatus__c-en_US" />
+            <option value="Open__c-en_US" />
+            <option value="Project__c-en_US" />
+            <option value="Sales__c-en_US" />
+            <option value="validWord__c-en_US" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
       <SFMetaTypeNamesState type="INSTALLED_PACKAGE" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_SITE" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_TRIGGER" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="AccountAddressTrigger" />
+            <option value="ClosedOpportunityTrigger" />
+            <option value="ExampleTrigger" />
+            <option value="HelloWorldTrigger" />
+            <option value="RestrictContactByName" />
+            <option value="TriggerForCar" />
+            <option value="TriggerForDeal" />
+            <option value="TriggerForStatus" />
+            <option value="TriggerValidationStatus" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="SITE_DOT_COM" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_TAB" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="AvailableCars" />
+            <option value="Car__c" />
+            <option value="Deal__c" />
+            <option value="Sales__c" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="CUSTOM_METADATA" setAll="true" />
+      <SFMetaTypeNamesState type="GROUP" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="Chelleng" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="FLOW_DEFINITION" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="Closed_Won_Opportunities" />
+            <option value="ForEmail" />
+            <option value="HomrWork" />
+            <option value="SetEmail" />
+            <option value="send" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
       <SFMetaTypeNamesState type="APEX_CLASS" setAll="true">
         <option name="myNames">
           <set>
-            <option value="AccountHandler" />
-            <option value="ArrayTest" />
+            <option value="AvailableCarController" />
+            <option value="CampingListController" />
             <option value="CarHandler" />
+            <option value="CarHandlerTest" />
             <option value="CarRentDAO" />
             <option value="CarRentServices" />
-            <option value="ContactAndLeadSearch" />
-            <option value="ContactSearch" />
-            <option value="DataBasesMethods" />
+            <option value="ComponentController" />
+            <option value="ControllerForDeals" />
+            <option value="ControllerForDealsTest" />
+            <option value="ControllerRelatedDeals" />
             <option value="DealHandler" />
-            <option value="EmailManager" />
-            <option value="EmailMissionSpecialist" />
-            <option value="InsertAcc" />
-            <option value="RandomContactFactory" />
-            <option value="SOQLQuerie" />
-            <option value="SOSL" />
-            <option value="StringArrayTest" />
-            <option value="TemperatureConverter" />
-            <option value="TemperatureConverterTest" />
-            <option value="Test" />
-            <option value="TestDataFactory" />
-            <option value="TestRestrictContactByName2" />
-            <option value="TestVerifyDate" />
-            <option value="VerifyDate" />
+            <option value="DealHandlerTest" />
+            <option value="RelatedDeals" />
+            <option value="RelatedDealsController" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="SETTINGS" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="Account" />
+            <option value="Activities" />
+            <option value="Address" />
+            <option value="BusinessHours" />
+            <option value="Case" />
+            <option value="Company" />
+            <option value="Contract" />
+            <option value="Entitlement" />
+            <option value="Forecasting" />
+            <option value="Ideas" />
+            <option value="Knowledge" />
+            <option value="LiveAgent" />
+            <option value="Mobile" />
+            <option value="Name" />
+            <option value="Opportunity" />
+            <option value="Order" />
+            <option value="OrgPreference" />
+            <option value="PathAssistant" />
+            <option value="Product" />
+            <option value="Quote" />
+            <option value="Search" />
+            <option value="Security" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="COMMUNITY_THEME_DEFINITION" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_PAGE" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="AccountList" />
+            <option value="ContactView" />
+            <option value="CreateContact" />
+            <option value="DealsInfo" />
+            <option value="DisplayImage" />
+            <option value="DisplayUserInfo" />
+            <option value="FlightSystemsChecklist" />
+            <option value="OppView" />
+            <option value="ShowImage" />
+            <option value="StationCheck" />
+            <option value="UserStatus" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="PLATFORM_CACHE_PARTITION" setAll="true" />
+      <SFMetaTypeNamesState type="REPORT_TYPE" setAll="true" />
+      <SFMetaTypeNamesState type="APEX_COMPONENT" setAll="true">
+        <option name="myNames">
+          <set>
+            <option value="ComponentRelatedDeals" />
+            <option value="Related_Deals" />
           </set>
         </option>
       </SFMetaTypeNamesState>
@@ -84,6 +425,7 @@
             <option value="BugCaseAssociation__c" />
             <option value="Campaign" />
             <option value="CampaignMember" />
+            <option value="Camping_Item__c" />
             <option value="Car__c" />
             <option value="Case" />
             <option value="CaseContactRole" />
@@ -102,6 +444,7 @@
             <option value="EmailMessage" />
             <option value="Event" />
             <option value="ExchangeUserMapping" />
+            <option value="Expense__c" />
             <option value="FeedItem" />
             <option value="ForecastingCategoryMapping" />
             <option value="Idea" />
@@ -145,94 +488,43 @@
           </set>
         </option>
       </SFMetaTypeNamesState>
-      <SFMetaTypeNamesState type="LIGHTNING_BUNDLE" setAll="true">
+      <SFMetaTypeNamesState type="PORTAL" setAll="true" />
+      <SFMetaTypeNamesState type="CUSTOM_APPLICATION" setAll="true">
         <option name="myNames">
           <set>
-            <option value="meetGreet" />
+            <option value="Application" />
+            <option value="Deal_sales" />
+            <option value="app" />
+            <option value="standard__AppLauncher" />
+            <option value="standard__Chatter" />
+            <option value="standard__Community" />
+            <option value="standard__Content" />
+            <option value="standard__Insights" />
+            <option value="standard__LightningBolt" />
+            <option value="standard__LightningInstrumentation" />
+            <option value="standard__LightningSales" />
+            <option value="standard__LightningSalesConsole" />
+            <option value="standard__LightningService" />
+            <option value="standard__Marketing" />
+            <option value="standard__Platform" />
+            <option value="standard__Sales" />
+            <option value="standard__Service" />
+            <option value="standard__ServiceConsole" />
+            <option value="standard__Sites" />
           </set>
         </option>
       </SFMetaTypeNamesState>
-      <SFMetaTypeNamesState type="APEX_TRIGGER" setAll="true">
+      <SFMetaTypeNamesState type="COMMUNITY_TEMPLATE_DEFINITION" setAll="true" />
+      <SFMetaTypeNamesState type="STATIC_RESOURCE" setAll="true">
         <option name="myNames">
           <set>
-            <option value="AccountAddressTrigger" />
-            <option value="ClosedOpportunityTrigger" />
-            <option value="ExampleTrigger" />
-            <option value="HelloWorldTrigger" />
-            <option value="RestrictContactByName" />
-            <option value="TriggerForCar" />
-            <option value="TriggerForDeal" />
-            <option value="TriggerForStatus" />
-            <option value="TriggerValidationStatus" />
+            <option value="jQuery" />
+            <option value="jQueryMobile" />
+            <option value="vfimagetest" />
           </set>
         </option>
       </SFMetaTypeNamesState>
-      <SFMetaTypeNamesState type="LAYOUT" setAll="true">
-        <option name="myNames">
-          <set>
-            <option value="Account-Account %28Marketing%29 Layout" />
-            <option value="Account-Account %28Sales%29 Layout" />
-            <option value="Account-Account %28Support%29 Layout" />
-            <option value="Account-Account Layout" />
-            <option value="Asset-Asset Layout" />
-            <option value="AssetRelationship-Asset Relationship Layout" />
-            <option value="BugCaseAssociation__c-BugCaseAssociation Layout" />
-            <option value="Campaign-Campaign Layout" />
-            <option value="CampaignMember-Campaign Member Page Layout" />
-            <option value="Car__c-Car Layout" />
-            <option value="Case-Case %28Marketing%29 Layout" />
-            <option value="Case-Case %28Sales%29 Layout" />
-            <option value="Case-Case %28Support%29 Layout" />
-            <option value="Case-Case Layout" />
-            <option value="CaseClose-Close Case Layout" />
-            <option value="CommunityMemberLayout-Community Member Layout" />
-            <option value="Contact-Contact %28Marketing%29 Layout" />
-            <option value="Contact-Contact %28Sales%29 Layout" />
-            <option value="Contact-Contact %28Support%29 Layout" />
-            <option value="Contact-Contact Layout" />
-            <option value="ContentVersion-Content Version Layout" />
-            <option value="Contract-Contract Layout" />
-            <option value="DandBCompany-D%26B Company Layout" />
-            <option value="Deal__c-Rend Layout" />
-            <option value="DuplicateRecordSet-Duplicate Record Set Layout" />
-            <option value="EmailMessage-Email Message Layout" />
-            <option value="Event-Event Layout" />
-            <option value="FeedItem-Feed Item Layout" />
-            <option value="Global-Global Layout" />
-            <option value="Idea-Idea Layout" />
-            <option value="Lead-Lead %28Marketing%29 Layout" />
-            <option value="Lead-Lead %28Sales%29 Layout" />
-            <option value="Lead-Lead %28Support%29 Layout" />
-            <option value="Lead-Lead Layout" />
-            <option value="Macro-Macro Layout" />
-            <option value="Opportunity-Opportunity %28Marketing%29 Layout" />
-            <option value="Opportunity-Opportunity %28Sales%29 Layout" />
-            <option value="Opportunity-Opportunity %28Support%29 Layout" />
-            <option value="Opportunity-Opportunity Layout" />
-            <option value="OpportunityLineItem-Opportunity Product Layout" />
-            <option value="Order-Order Layout" />
-            <option value="OrderItem-Order Product Layout" />
-            <option value="Pricebook2-Price Book Layout" />
-            <option value="PricebookEntry-Price Book Entry Layout" />
-            <option value="Product2-Product Layout" />
-            <option value="Project__c-Project Layout" />
-            <option value="QuickText-Quick Text Layout" />
-            <option value="Sales__c-defEmail" />
-            <option value="Sales__c-emai" />
-            <option value="Scorecard-Scorecard Layout" />
-            <option value="ScorecardAssociation-Scorecard Association Layout" />
-            <option value="ScorecardMetric-Scorecard Metric Layout" />
-            <option value="SocialPersona-Social Persona Layout" />
-            <option value="SocialPost-Social Post Layout" />
-            <option value="Solution-Solution Layout" />
-            <option value="Task-Task Layout" />
-            <option value="User-User Layout" />
-            <option value="UserProvAccount-User Provisioning Account Layout" />
-            <option value="UserProvisioningLog-User Provisioning Log Layout" />
-            <option value="UserProvisioningRequest-User Provisioning Request Layout" />
-          </set>
-        </option>
-      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="POST_TEMPLATE" setAll="true" />
       <SFMetaTypeNamesState type="WORKFLOW" setAll="true">
         <option name="myNames">
           <set>
@@ -243,6 +535,7 @@
             <option value="BugCaseAssociation__c" />
             <option value="Campaign" />
             <option value="CampaignMember" />
+            <option value="Camping_Item__c" />
             <option value="Car__c" />
             <option value="Case" />
             <option value="ChatterActivity" />
@@ -257,6 +550,7 @@
             <option value="EmailMessage" />
             <option value="Event" />
             <option value="ExchangeUserMapping" />
+            <option value="Expense__c" />
             <option value="FeedItem" />
             <option value="Idea" />
             <option value="Lead" />
@@ -291,88 +585,62 @@
           </set>
         </option>
       </SFMetaTypeNamesState>
-      <SFMetaTypeNamesState type="CUSTOM_APPLICATION" setAll="true">
-        <option name="myNames">
-          <set>
-            <option value="Application" />
-            <option value="Deal_sales" />
-            <option value="app" />
-            <option value="standard__AppLauncher" />
-            <option value="standard__Chatter" />
-            <option value="standard__Community" />
-            <option value="standard__Content" />
-            <option value="standard__Insights" />
-            <option value="standard__LightningBolt" />
-            <option value="standard__LightningInstrumentation" />
-            <option value="standard__LightningSales" />
-            <option value="standard__LightningSalesConsole" />
-            <option value="standard__LightningService" />
-            <option value="standard__Marketing" />
-            <option value="standard__Platform" />
-            <option value="standard__Sales" />
-            <option value="standard__Service" />
-            <option value="standard__ServiceConsole" />
-            <option value="standard__Sites" />
-          </set>
-        </option>
-      </SFMetaTypeNamesState>
-      <SFMetaTypeNamesState type="STATIC_RESOURCE" setAll="true" />
     </type2Names>
     <builtIn>
-      <type value="WEB_LINK" />
       <type value="CUSTOM_OBJECT" />
+      <type value="WEB_LINK" />
       <type value="CUSTOM_FIELD" />
     </builtIn>
     <unmananged>
-      <type value="HOME_PAGE_LAYOUT" />
-      <type value="APEX_PAGE" />
-      <type value="FLOW_DEFINITION" />
-      <type value="COMMUNITY" />
-      <type value="QUEUE" />
-      <type value="GROUP" />
-      <type value="SITE_DOT_COM" />
-      <type value="CUSTOM_OBJECT_TRANSLATION" />
-      <type value="SETTINGS" />
+      <type value="ROLE" />
       <type value="PERMISSION_SET" />
+      <type value="WEB_LINK" />
+      <type value="PROFILE" />
+      <type value="LIGHTNING_BUNDLE" />
+      <type value="LAYOUT" />
+      <type value="COMMUNITY" />
+      <type value="FLOW" />
+      <type value="QUICK_ACTION" />
+      <type value="SHARING_SET" />
+      <type value="HOME_PAGE_COMPONENT" />
+      <type value="REPORT" />
+      <type value="CUSTOM_LABELS" />
+      <type value="QUEUE" />
+      <type value="HOME_PAGE_LAYOUT" />
+      <type value="ASSIGNMENT_RULES" />
+      <type value="TRANSLATIONS" />
+      <type value="APPROVAL_PROCESS" />
+      <type value="SHARING_RULES" />
+      <type value="CALL_CENTER" />
+      <type value="CUSTOM_OBJECT_TRANSLATION" />
+      <type value="APEX_TEST_SUITE" />
+      <type value="INSTALLED_PACKAGE" />
+      <type value="CUSTOM_SITE" />
+      <type value="APEX_TRIGGER" />
+      <type value="SITE_DOT_COM" />
+      <type value="CUSTOM_TAB" />
+      <type value="CUSTOM_METADATA" />
+      <type value="GROUP" />
+      <type value="FLOW_DEFINITION" />
+      <type value="APEX_CLASS" />
+      <type value="SETTINGS" />
+      <type value="CUSTOM_FIELD" />
+      <type value="COMMUNITY_THEME_DEFINITION" />
+      <type value="APEX_PAGE" />
+      <type value="PLATFORM_CACHE_PARTITION" />
       <type value="REPORT_TYPE" />
       <type value="APEX_COMPONENT" />
-      <type value="POST_TEMPLATE" />
-      <type value="SHARING_SET" />
-      <type value="TRANSLATIONS" />
-      <type value="PORTAL" />
-      <type value="CUSTOM_TAB" />
-      <type value="CUSTOM_LABELS" />
-      <type value="FLOW" />
-      <type value="APPROVAL_PROCESS" />
-      <type value="ASSIGNMENT_RULES" />
-      <type value="INSTALLED_PACKAGE" />
-      <type value="HOME_PAGE_COMPONENT" />
-      <type value="WEB_LINK" />
-      <type value="APEX_CLASS" />
-      <type value="CUSTOM_METADATA" />
-      <type value="QUICK_ACTION" />
-      <type value="REPORT" />
-      <type value="APEX_TEST_SUITE" />
-      <type value="CALL_CENTER" />
-      <type value="SHARING_RULES" />
-      <type value="ROLE" />
-      <type value="PROFILE" />
       <type value="CUSTOM_OBJECT" />
-      <type value="COMMUNITY_THEME_DEFINITION" />
-      <type value="LIGHTNING_BUNDLE" />
-      <type value="CUSTOM_FIELD" />
-      <type value="APEX_TRIGGER" />
-      <type value="PLATFORM_CACHE_PARTITION" />
+      <type value="PORTAL" />
       <type value="COMMUNITY_TEMPLATE_DEFINITION" />
-      <type value="LAYOUT" />
-      <type value="WORKFLOW" />
-      <type value="CUSTOM_SITE" />
       <type value="CUSTOM_APPLICATION" />
       <type value="STATIC_RESOURCE" />
+      <type value="POST_TEMPLATE" />
+      <type value="WORKFLOW" />
     </unmananged>
     <managed>
-      <type value="WEB_LINK" />
       <type value="CUSTOM_OBJECT" />
+      <type value="WEB_LINK" />
       <type value="APEX_CLASS" />
       <type value="CUSTOM_FIELD" />
     </managed>
@@ -391,35 +659,35 @@
       <SFMetaComponentState type="Layout" chosen="true" isMajor="true" />
       <SFMetaComponentState type="StaticResource" chosen="true" isMajor="true" />
       <SFMetaComponentState type="Workflow" chosen="true" isMajor="true" />
-      <SFMetaComponentState type="ApexTestSuite" />
-      <SFMetaComponentState type="ApprovalProcess" />
-      <SFMetaComponentState type="AssignmentRules" />
-      <SFMetaComponentState type="CallCenter" />
-      <SFMetaComponentState type="Community" />
-      <SFMetaComponentState type="CommunityTemplateDefinition" />
-      <SFMetaComponentState type="CommunityThemeDefinition" />
-      <SFMetaComponentState type="CustomMetadata" />
-      <SFMetaComponentState type="CustomObjectTranslation" />
-      <SFMetaComponentState type="CustomSite" />
-      <SFMetaComponentState type="FlowDefinition" />
-      <SFMetaComponentState type="Group" />
-      <SFMetaComponentState type="HomePageComponent" />
-      <SFMetaComponentState type="HomePageLayout" />
-      <SFMetaComponentState type="PermissionSet" />
-      <SFMetaComponentState type="PlatformCachePartition" />
-      <SFMetaComponentState type="Portal" />
-      <SFMetaComponentState type="PostTemplate" />
-      <SFMetaComponentState type="Profile" />
-      <SFMetaComponentState type="Queue" />
-      <SFMetaComponentState type="QuickAction" />
-      <SFMetaComponentState type="Report" />
-      <SFMetaComponentState type="ReportType" />
-      <SFMetaComponentState type="Role" />
-      <SFMetaComponentState type="Settings" />
-      <SFMetaComponentState type="SharingRules" />
-      <SFMetaComponentState type="SharingSet" />
-      <SFMetaComponentState type="SiteDotCom" />
-      <SFMetaComponentState type="Translations" />
+      <SFMetaComponentState type="ApexTestSuite" chosen="true" />
+      <SFMetaComponentState type="ApprovalProcess" chosen="true" />
+      <SFMetaComponentState type="AssignmentRules" chosen="true" />
+      <SFMetaComponentState type="CallCenter" chosen="true" />
+      <SFMetaComponentState type="Community" chosen="true" />
+      <SFMetaComponentState type="CommunityTemplateDefinition" chosen="true" />
+      <SFMetaComponentState type="CommunityThemeDefinition" chosen="true" />
+      <SFMetaComponentState type="CustomMetadata" chosen="true" />
+      <SFMetaComponentState type="CustomObjectTranslation" chosen="true" />
+      <SFMetaComponentState type="CustomSite" chosen="true" />
+      <SFMetaComponentState type="FlowDefinition" chosen="true" />
+      <SFMetaComponentState type="Group" chosen="true" />
+      <SFMetaComponentState type="HomePageComponent" chosen="true" />
+      <SFMetaComponentState type="HomePageLayout" chosen="true" />
+      <SFMetaComponentState type="PermissionSet" chosen="true" />
+      <SFMetaComponentState type="PlatformCachePartition" chosen="true" />
+      <SFMetaComponentState type="Portal" chosen="true" />
+      <SFMetaComponentState type="PostTemplate" chosen="true" />
+      <SFMetaComponentState type="Profile" chosen="true" />
+      <SFMetaComponentState type="Queue" chosen="true" />
+      <SFMetaComponentState type="QuickAction" chosen="true" />
+      <SFMetaComponentState type="Report" chosen="true" />
+      <SFMetaComponentState type="ReportType" chosen="true" />
+      <SFMetaComponentState type="Role" chosen="true" />
+      <SFMetaComponentState type="Settings" chosen="true" />
+      <SFMetaComponentState type="SharingRules" chosen="true" />
+      <SFMetaComponentState type="SharingSet" chosen="true" />
+      <SFMetaComponentState type="SiteDotCom" chosen="true" />
+      <SFMetaComponentState type="Translations" chosen="true" />
     </components>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
